@@ -52,5 +52,5 @@ For the most common option, VSCode:
 
 	In VSCode this is done using the down arrow button that appears on the top-right when you open a Rocq file.
 
-This project should work with all Rocq versions (since the rename),
-but it was built and tested with Rocq version `8.20.1`.
+This project should work with all recent Rocq versions,
+but it was built and tested with Rocq version `9.0.0`.
