@@ -1,0 +1,6 @@
+/src/*.vo
+/src/*.vok
+/src/*.vos
+/src/*.glob
+/src/.*.aux
+/.lia.cache
